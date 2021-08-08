@@ -2,7 +2,7 @@
  * file: src/services/EmployeeService.js
  * data: 27/04/2021
  * description: arquivo responsável pelos métodos de requisições das Apis via HTTP
- * author: Swamy Menezes <twitter: swam >
+ * author: Swamy Menezes <@DevMenez - Twitter>
  */
 
 import Api from './Api';

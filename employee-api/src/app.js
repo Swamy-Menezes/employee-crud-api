@@ -2,7 +2,7 @@
  * file: app.js
  * description: arquivo responsável por fazer a conexão com o arquivo 'server.js'
  * data: 01/04/2021
- * author: Swamy Menezes <@MenezDireita - Twitter>
+ * author: Swamy Menezes <@DevMenez - Twitter>
  */
 
  const express = require('express');

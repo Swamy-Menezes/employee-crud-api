@@ -2,7 +2,7 @@
  * file: routes/employee-routers.js
  * descrição: arquivo responsável pelas rotas da API
  * data: 01/05/2021
- * author: Swamy Menezes <@MenezDireita - Twitter>
+ * author: Swamy Menezes <@DevMenez - Twitter>
  */
 
 const router = require('express-promise-router')();

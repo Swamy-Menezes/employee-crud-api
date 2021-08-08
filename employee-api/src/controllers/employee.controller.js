@@ -2,7 +2,7 @@
  * file: controlles/employee-controller.js
  * descrição: arquivo responsável pela lógica do CRUD (API - Employee)
  * data: 01/05/2021
- * author: Swamy Menezes <@MenezDireita - Twitter>
+ * author: Swamy Menezes <@DevMenez - Twitter>
  */
 
 const db = require('../config/database');
